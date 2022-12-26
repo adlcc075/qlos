@@ -1,4 +1,6 @@
+#
 # Main Makefile
+#
 K=kernel
 U=user
 
